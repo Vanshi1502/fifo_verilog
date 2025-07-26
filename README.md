@@ -1,5 +1,5 @@
 # fifo_verilog
-# 🧠 Asynchronous FIFO Design in Verilog
+#  Asynchronous FIFO Design in Verilog
 
 A modular and synthesizable implementation of an **Asynchronous FIFO (First-In-First-Out)** in Verilog HDL. This design enables reliable data transfer between two independent clock domains using dual-port memory and proper synchronization mechanisms.
 
@@ -16,7 +16,7 @@ This project demonstrates the architecture and functionality of an asynchronous 
 
 ---
 
-## 🧩 Module Breakdown
+##  Module Breakdown
 
 | Module            | Description                                                                 |
 |-------------------|-----------------------------------------------------------------------------|
